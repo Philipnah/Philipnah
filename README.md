@@ -2,7 +2,7 @@
 <!-- Banner -->
 <h3 align="center">Hi, I'm Philip Pedersen, a Developer 🚀 from Denmark.</h3>
 <p align="center">
-	<img align="center" src="https://github.com/Philipnah/Philipnah/blob/main/assets/Coding.gif">
+	<img align="center" src="https://github.com/Philipnah/Philipnah/blob/master/assets/Coding.gif">
 </p>
 
 <!-- Talking about you -->
