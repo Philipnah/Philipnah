@@ -1,12 +1,11 @@
 
 <!-- Banner -->
-<h3 align="center">Hi, I'm Philip Pedersen, a Developer 🚀 from Denmark.</h3>
+<h3 align="center">Hi, I'm Philip Han, a Danish Software Developer 💻</h3>
 <p align="center">
-	<img align="center" src="https://github.com/Philipnah/Philipnah/blob/master/assets/Coding.gif">
+	<img align="center" width="60%" src="https://github.com/Philipnah/Philipnah/blob/master/assets/Coding.gif">
 </p>
 
 <!-- Talking about you -->
-<!--#### **Talking about Personal Stuff:**-->
 
 <!-- Any image aligned to the right. Beware the width -->
 <a href="https://github.com/Philipnah">
@@ -14,6 +13,6 @@
   </a>
 
 
-- 💻 I’m currently working on 
-- 🌱 I’m currently learning
+<!-- - 💻 I’m currently working on -->
+- 🌱 I’m currently learning C# in highschool
 - 💬 Ask me about anything, I'll gladly help 😄
