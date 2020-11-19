@@ -2,7 +2,7 @@
 <!-- Banner -->
 <h3 align="center">Hi, I'm Philip Han, a Danish Software Developer 💻</h3>
 <p align="center">
-	<img align="center" height="50%" src="https://github.com/Philipnah/Philipnah/blob/master/assets/Coding.gif">
+	<img align="center" height="30%" src="https://github.com/Philipnah/Philipnah/blob/master/assets/Coding.gif">
 </p>
 
 <!-- Talking about you -->
