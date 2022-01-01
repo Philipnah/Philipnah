@@ -22,3 +22,6 @@
 - 🏆 My favorite code editor is Visual Studio Code
 - 🎹 Fun fact: I play the piano!
 - 😂 Just looking to have fun while learning in life!
+
+
+<!--START_SECTION:activity-->
