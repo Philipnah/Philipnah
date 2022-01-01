@@ -28,3 +28,13 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+<!--
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg"/>
+
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg"/>
+
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudio.svg"/>
+
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg"/>
+-->
