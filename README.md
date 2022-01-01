@@ -24,7 +24,7 @@
 - 😂 Just looking to have fun while learning in life!
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
