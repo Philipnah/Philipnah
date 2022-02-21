@@ -4,9 +4,11 @@
 
 <br />
 
+<!--
 <p align="center">
 	<img align="center" height="30%" src="https://github.com/Philipnah/Philipnah/blob/master/assets/Coding.gif">
 </p>
+-->
 
 <!-- Talking about you -->
 <br />
