@@ -19,8 +19,8 @@
 
 
 <!-- - 💻 I’m currently working on -->
-- 🌱 I’m currently learning C# and basic MySQL in highschool
-- 🐍 I code mostly in C# and Python
+- 🌱 I’m currently learning all kinds of software development!
+- 🐍 I code mostly in C#, Java and Python
 - 🏆 My favorite code editor is Visual Studio Code
 - 🎹 Fun fact: I play the piano!
 - 😂 Just looking to have fun while learning in life!
