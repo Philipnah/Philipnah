@@ -1,6 +1,7 @@
 
 <!-- Banner -->
-<h3 align="center">Hi, I'm Philip Han, a Danish Software Development Student 💻</h3>
+<h3 align="center">Hi, I'm Philip Han,</h3>
+<h3 align="center">a Danish Software Development Student at ITU! 💻</h3>
 
 <br />
 
