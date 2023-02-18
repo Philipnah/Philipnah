@@ -14,17 +14,18 @@
 <!-- Talking about you -->
 <br />
 <!-- Any image aligned to the right. Beware the width -->
+<!--
 <a href="https://github.com/Philipnah">
     <img width="50%" align="right" alt="Philip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Philipnah&show_icons=true&hide_border=true" />
   </a>
-
+-->
 
 <!-- - 💻 I’m currently working on -->
 - 🌱 I’m currently learning all kinds of software development!
 - 🐍 I code mostly in C#, Java and Python
 - 🏆 My favorite code editor is Visual Studio Code
 - 🎹 Fun fact: I play the piano!
-- 😂 Just looking to have fun while learning in life!
+
 
 
 
