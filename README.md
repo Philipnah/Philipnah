@@ -21,10 +21,12 @@
 -->
 
 <!-- - 💻 I’m currently working on -->
-- 🌱 I’m currently learning all kinds of software development!
-- 🐍 I code mostly in C#, Java and Python
-- 🏆 My favorite code editor is Visual Studio Code
-- 🎹 Fun fact: I play the piano!
+<p align="center">
+<ul>🌱 I’m currently learning all kinds of software development!</ul>
+<ul>🐍 I code mostly in C#, Java and Python</ul>
+<ul>🏆 My favorite code editor is Visual Studio Code</ul>
+<ul>🎹 Fun fact: I play the piano!</ul>
+</p>
 
 
 
