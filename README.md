@@ -23,8 +23,9 @@
 <!-- - 💻 I’m currently working on -->
 <p align="center">
 <ul>🌱 I’m currently learning all kinds of software development!</ul>
-<ul>🐍 I code mostly in C#, Java and Python</ul>
-<ul>🏆 My favorite code editor is Visual Studio Code</ul>
+<ul>🐍 I code mostly in C#, Python and Go</ul>
+<ul>💻 I prefer to work on the backend</ul>
+<ul>🏆 My favorite code editor is Visual Studio Code, but I'm also interested in the development of Zed</ul>
 <ul>🎹 Fun fact: I play the piano!</ul>
 </p>
 
